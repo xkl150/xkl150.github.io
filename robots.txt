@@ -1,0 +1,17 @@
+User-agent: *
+
+Allow: /
+
+Allow: /archives/
+
+Allow: /categories/
+Disallow: /img/
+
+Disallow: /js/
+
+Disallow: /css/
+
+Disallow: /fonts/
+
+Sitemap: https://www.xlovey.top/sitemap.xml
+Sitemap: https://www.xlovey.top/baidusitemap.xml
