@@ -46,7 +46,7 @@
     <img class="rotating" src="img/spaceman.svg">
     <div class="pagenotfound-text">
     <h1>Pages lost in space</h1>
-    <h2><a href="https://www.xlovey.top">Return to home page</a></h2>
+    <h2><a href="https://www.xlovey.top">Go back to the homepage</a></h2>
     </div>
     <canvas id="canvas2d"></canvas>
 </div>
