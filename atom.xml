@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>XLoveY</title>
+  <title>XLoveY - 一个伪文艺程序猿博客网站</title>
   
   <subtitle>Karen&#39;s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.xlovey.top/"/>
-  <updated>2018-04-19T12:02:26.370Z</updated>
+  <updated>2018-08-05T18:08:09.450Z</updated>
   <id>https://www.xlovey.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网易云电台-瓦尔登湖</title>
+    <link href="https://www.xlovey.top/NeteaseMusic-Walden/"/>
+    <id>https://www.xlovey.top/NeteaseMusic-Walden/</id>
+    <published>2018-08-05T16:53:51.000Z</published>
+    <updated>2018-08-05T18:08:09.450Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;center&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;我愿意深深地扎入生活，吮尽生活的骨髓，&lt;br&gt;过得扎实，简单，把一切不属于生活的内容剔除得干净利落，&lt;br&gt;把生活逼到绝处，用最基本的形式，简单，简单，再简单。&lt;br&gt;&lt;/b&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe
+        
+      
+    
+    </summary>
+    
+      <category term="网易云" scheme="https://www.xlovey.top/categories/%E7%BD%91%E6%98%93%E4%BA%91/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>晚安 夏末的南方城市</title>
